@@ -1,9 +1,16 @@
 body {
     background-color: black
+    
+    
 }
+
+
 
 .box{
     display: inline-block;
     background-color: black;
     padding: 20px;
+    background-image: url(\Game\img\shire.jpg);
+    background-position: center;
+    color: white;
 }
