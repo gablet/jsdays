@@ -3,12 +3,15 @@ body {
     
     
 }
+h2{
+    color: white;
 
+}
 
 
 .box{
     display: inline-block;
-    color: white;
+    color:white;
     padding: 20px;
     background-image: url(\Game\img\shire.jpg);
     background-position: center;
